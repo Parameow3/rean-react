@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Menghun spinning for the life time xD
+          Test CICD
         </p>
         <a
           className="App-link"
