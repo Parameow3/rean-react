@@ -1,10 +1,10 @@
-import './App.css';
-import {FiberContainer} from "./FiberContainer";
+import "./App.css";
+import { FiberContainer } from "./FiberContainer";
 
 function App() {
   return (
     <div className="App">
-      <FiberContainer/>
+      <FiberContainer />
     </div>
   );
 }
